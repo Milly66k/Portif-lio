@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+.wrapper{
+    height: 250px;
+    width: 350px;
+}
